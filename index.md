@@ -1,5 +1,5 @@
 # Hi! My name is Aaron
-## I love learning new programming languages.
+I love learning new programming languages.
 # Projects I Am Working On
 I am currently learning Full Stack development.
 # My Interests
