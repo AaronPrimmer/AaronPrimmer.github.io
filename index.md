@@ -6,6 +6,6 @@ I am currently learning Full Stack development.
 I love shooting and editing videos for people.  Also spending time with my family.
 # Get in Touch
 <ul>
-    <li><a href="https//x.com/{{ site.twitter_username}}">X</a></li>
-    <li><a href="https//github.com/{{ site.github_username}}">Github</a></li>
+    <li><a href="https://x.com/{{ site.twitter_username}}">X</a></li>
+    <li><a href="https://github.com/{{ site.github_username}}">Github</a></li>
 </ul>
